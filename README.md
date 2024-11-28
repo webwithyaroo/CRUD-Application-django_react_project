@@ -147,5 +147,3 @@ This project is licensed under the MIT License.
 For questions or feedback, reach out to me at [olawaleridollahi@gmail.com].
 
 ---
-
-Let me know if you want further customizations!
